@@ -1,5 +1,4 @@
 Mail birthday card	Buy something to yourself	25-04-2019
 Doctor's Appointment	Meet at the doctor's place	25-04-2019
 Mail birthday card	Buy something to yourself	25-04-2019
-Mail birthday card	Buy something to yourself	25-04-2019
-Mail birthday card	Buy something to yourself	25-04-2019
+This is a short test for the program	This is a short test	06-11-2019
